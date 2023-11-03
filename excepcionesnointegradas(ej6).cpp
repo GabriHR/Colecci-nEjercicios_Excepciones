@@ -16,7 +16,3 @@ int main() {
     }
     return 0;
 }
-//excepciones no integradas con la funcion lanza excepcion
-//para lanzar una excepcion emplearemos la palabra throw
-//y para capturarla usamos la palabra catch y el tipo de excepcion a capturar
-//ademas de un try
