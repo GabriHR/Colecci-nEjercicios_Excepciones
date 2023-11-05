@@ -1,3 +1,0 @@
-C:/Users/jiach/CLionProjects/7.AdquisicionDeRecursos/cmake-build-debug/CMakeFiles/7_AdquisicionDeRecursos.dir
-C:/Users/jiach/CLionProjects/7.AdquisicionDeRecursos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jiach/CLionProjects/7.AdquisicionDeRecursos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
